@@ -1,0 +1,158 @@
+:root {
+  --ink: #23201b;
+  --ink-soft: #5c5648;
+  --paper: #faf6ee;
+  --paper-2: #f2ebdd;
+  --accent: #a8541b;      /* deep ochre / saffron */
+  --accent-soft: #c98a4a;
+  --rule: #e3d9c5;
+  --measure: 40rem;       /* ~65ch reading measure */
+  --serif: "Noto Serif", "Noto Serif Devanagari", Georgia, "Times New Roman", serif;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.125rem;
+  line-height: 1.72;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---------- Layout ---------- */
+.layout {
+  max-width: 66rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  padding: 1.25rem;
+}
+
+main { min-width: 0; }
+
+article { max-width: var(--measure); }
+
+/* ---------- Header ---------- */
+.doc-header {
+  max-width: var(--measure);
+  margin: 1.5rem 0 2.75rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 3px double var(--rule);
+}
+.eyebrow {
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 0.6rem;
+}
+.doc-title {
+  font-size: clamp(2.2rem, 6vw, 3.4rem);
+  line-height: 1.08;
+  margin: 0;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+.doc-sub {
+  color: var(--ink-soft);
+  font-style: italic;
+  margin: 0.75rem 0 0;
+  font-size: 1.05rem;
+}
+
+/* ---------- Reading typography ---------- */
+article p {
+  margin: 0 0 1.35rem;
+  hyphens: auto;
+}
+article h1, article h2, article h3 {
+  font-weight: 600;
+  line-height: 1.2;
+  scroll-margin-top: 1rem;
+}
+article h1 {           /* Lecture N */
+  font-size: 1.9rem;
+  margin: 3.5rem 0 0.4rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--rule);
+  color: var(--accent);
+}
+article h2 {           /* section */
+  font-size: 1.4rem;
+  margin: 2.4rem 0 0.8rem;
+}
+article h3 {
+  font-size: 1.12rem;
+  margin: 2rem 0 0.6rem;
+  color: var(--ink-soft);
+}
+article em { color: #3a352c; }
+article a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+article a[href^="http"]:not([href*="chiti.network"])::after { content: " ↗"; font-size: 0.8em; color: var(--accent-soft); }
+
+/* ---------- Table of contents ---------- */
+.sidebar { font-size: 0.95rem; }
+#toc-wrap {
+  background: var(--paper-2);
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  padding: 0.9rem 1.1rem;
+}
+#toc-wrap > summary {
+  cursor: pointer;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.82rem;
+  color: var(--accent);
+  list-style: none;
+}
+#toc-wrap > summary::-webkit-details-marker { display: none; }
+#toc-wrap > summary::after { content: " ▾"; }
+#toc-wrap[open] > summary::after { content: " ▴"; }
+#toc-wrap ul { list-style: none; margin: 0.6rem 0 0; padding-left: 0; }
+#toc-wrap ul ul { padding-left: 0.9rem; border-left: 1px solid var(--rule); margin: 0.15rem 0 0.4rem; }
+#toc-wrap li { margin: 0.2rem 0; }
+#toc-wrap a { color: var(--ink-soft); text-decoration: none; display: block; padding: 0.12rem 0; }
+#toc-wrap a:hover { color: var(--accent); }
+/* lecture-level entries (top ul direct children) slightly emphasised */
+#toc-wrap > ul > li > a { font-weight: 600; color: var(--ink); }
+
+/* ---------- Footer ---------- */
+.doc-footer {
+  max-width: var(--measure);
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 3px double var(--rule);
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+}
+.doc-footer a { color: var(--accent); }
+
+/* ---------- Desktop: sticky sidebar ---------- */
+@media (min-width: 60rem) {
+  .layout {
+    grid-template-columns: 15rem minmax(0, 1fr);
+    gap: 3rem;
+    padding: 2rem 1.5rem;
+  }
+  .sidebar { order: -1; }
+  #toc-wrap {
+    position: sticky;
+    top: 1.5rem;
+    max-height: calc(100vh - 3rem);
+    overflow-y: auto;
+  }
+  #toc-wrap > summary { display: none; }     /* always expanded on desktop */
+}
+
+@media (max-width: 60rem) {
+  body { font-size: 1.06rem; }
+}
