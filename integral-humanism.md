@@ -4,15 +4,8 @@
 
 
 At this critical time, when the clichés and dogmas in the name of
-secularism, socialism, communism, capitalism, regionalism and com-
-munalism, lie in tatters in the face of the violence that has overtaken
-our society, it is time to take a fresh look at the philosophy of Inte-
-gral Humanism propounded by Pandit Deendayal Upadhyaya. His
-thesis on Integral Humanism, given in a series of speeches in Bombay
-from 22rd to 25th April, 1965, form the basis of a system of gover-
-nance that is suited to the Indian nation and its people, regardless of
-caste, religion or region, as an alternative for all round human devel-
-opment.
+secularism, socialism, communism, capitalism, regionalism and communalism, lie in tatters in the face of the violence that has overtaken our society, it is time to take a fresh look at the philosophy of Integral Humanism propounded by Pandit Deendayal Upadhyaya. His thesis on Integral Humanism, given in a series of speeches in Bombay from 22rd to 25th April, 1965, form the basis of a system of governance that is suited to the Indian nation and its people, regardless of
+caste, religion or region, as an alternative for all round human development.
 
 
 Vasant Raj Pandit,
@@ -115,12 +108,7 @@ Congress too, is in a similar state. Even thought the Congress has
 proclaimed 'Democratic Socialism' as its goal, the behaviour of various
 Congress leaders shows one thing clearly, that there are no definite principles,
 no single direction in the Congress. There are staunch communists in the
-Congress fold. There are also those who have faith in capitalism and oppose
-
-
-
-
-communism to the teeth. All sorts of people are arrayed on the Congress
+Congress fold. There are also those who have faith in capitalism and oppose communism to the teeth. All sorts of people are arrayed on the Congress
 platform. If there can be a magic box which contains a cobra and a mongoose
 living together, it is Congress?
 
@@ -208,12 +196,7 @@ rivulets with all their refuse. However, these have no separate existence but
 have become the Ganga. The current of the Ganga must inevitably flow
 onwards. If this was all that happened, it would still not be a big problem.
 But there are other nations in the world. They have made phenomenal
-progress in the past one thousand years. Our entire attention was engaged in
-
-
-
-
-fighting for independence or staving off new hordes of invaders. We have
+progress in the past one thousand years. Our entire attention was engaged in fighting for independence or staving off new hordes of invaders. We have
 not been able to contribute to world progress. Now when we are free, is it
 not paramount that we fill this deficiency at the earliest, and stand shoulder
 to shoulder with other advanced nations of the world?
@@ -256,13 +239,7 @@ were nationalism, democracy and socialism. At the same time, there have
 been some who cherish world unity and world peace, and have made some
 efforts in that direction.
 
-
-Of these, nationalism is the oldest and strongest. After the fall of
-
-
-
-
-the Roman Empire and decline in the influence of the Catholic Church,
+Of these, nationalism is the oldest and strongest. After the fall of the Roman Empire and decline in the influence of the Catholic Church,
 Europe witnessed the rise of several nations. The history of Europe in the
 past one thousand years is the history of the rise of, and conflicts among,
 various nations. These nations extended their empires beyond the European
@@ -305,12 +282,7 @@ freedom of the home, workers had started working in the factories, taking
 orders from the factory owners. The worker migrated from his home town
 to dwell in crowded cities. There was no provision for housing. There were
 hardly any rules in the factory to protect the worker. He was economically
-weak and not yet organised. He became a victim of exploitation, injustice
-
-
-
-
-and harassment. Those in whom political power was vested were members
+weak and not yet organised. He became a victim of exploitation, injustice and harassment. Those in whom political power was vested were members
 of the same group who exploited the worker. Hence, there was no hope of
 redress from the State.
 
@@ -353,12 +325,7 @@ each stands opposed to the rest in practice. Nationalism poses a threat to
 world peace. Democracy and capitalism join hands to give a free reign to
 exploitation. Socialism replaced capitalism and brought with it an end to
 democracy and individual freedom. Hence the West is at present, faced
-with the task of reconciling these good ideals. They have not succeeded in
-
-
-
-
-this task to date. They have tried combinations and permutations, by placing
+with the task of reconciling these good ideals. They have not succeeded in this task to date. They have tried combinations and permutations, by placing
 emphasis on one or the other ideal. England emphasised nationalism and
 democracy and developed her politico-social institutions along those lines,
 whereas France could not adopt the same. There, democracy resulted in
@@ -439,12 +406,7 @@ was required to face the new situations. Therefore, we cannot afford to shut
 our eyes to all that has happened in the past one thousand years.
 
 
-Similarly, those who would like to make Western ideologies the
-
-
-
-
-basis of our progress, forget that these ideologies have arisen in certain
+Similarly, those who would like to make Western ideologies the basis of our progress, forget that these ideologies have arisen in certain
 special situations and times. They are not necessarily universal. They cannot
 be free from the limitations of the particular people and their culture which
 gave birth to these isms. Besides, many of these are already out of date. The
@@ -470,13 +432,7 @@ not prove equally helpful in Bharat. Diseases also depend upon climate,
 water, dietary habits and heredity. Even though the external symptoms may
 be apparently similar, the same drug does not necessarily cure all persons.
 Those who apply a single panacea to all diseases must be considered quacks
-rather than doctors. Therefore, Ayurveda states "यद्देशस्य यो जन्तुः तद्देशस्य तस्यौषधम्" [*yaddeśasya yo jantuḥ taddeśasya tasyauṣadham*]
-
-
-i.e. for the disease in each place, a remedy suitable to that place must be
-
-
-found. Therefore, it is neither possible nor wise to adopt foreign isms in our
+rather than doctors. Therefore, Ayurveda states "यद्देशस्य यो जन्तुः तद्देशस्य तस्यौषधम्" [*yaddeśasya yo jantuḥ taddeśasya tasyauṣadham*] i.e. for the disease in each place, a remedy suitable to that place must be found. Therefore, it is neither possible nor wise to adopt foreign isms in our
 country in the original form in toto. It will not be helpful in achieving
 happiness and prosperity.'
 
@@ -490,12 +446,7 @@ altogether the development in other societies, past or present, is certainly
 unwise. Whatever truths these developments contain must be taken note of
 and accepted. The rest must be scrupulously avoided. While absorbing the
 wisdom of other societies, it is only proper that we avoid their mistakes or
-perversities. Even their wisdom should be adapted to our particular
-
-
-
-
-circumstances. In brief, we must absorb the knowledge and gains of the
+perversities. Even their wisdom should be adapted to our particular circumstances. In brief, we must absorb the knowledge and gains of the
 entire humanity so far as eternal principles and truths are concerned. Of
 these, the ones that originated in our midst have to be clarified and adapted
 to changed times, and those that we take from other societies have to be
@@ -530,9 +481,7 @@ end exploitation, but it destroyed freedom and dignity of the individual.
 
 Mankind stands confused and is unable to decide what the correct
 path is for future progress. The West is not in a position to say with confidence
-that, "This alone and no other", is the right path. It is itself groping. Therefore,
-simply to follow the West would be an instance of the blind being led by the
-blind.
+that, "This alone and no other", is the right path. It is itself groping. Therefore, simply to follow the West would be an instance of the blind being led by the blind.
 
 
 ## Claim Of Bharatiya Culture
@@ -542,12 +491,7 @@ In this situation, our attention is claimed by the Bharatiya culture.
 Is it possible that our culture can point the direction to the world?
 
 
-From the national standpoint we shall have to consider our culture,
-
-
-
-
-because that is our very nature. Independence is intimately related to one's
+From the national standpoint we shall have to consider our culture, because that is our very nature. Independence is intimately related to one's
 own culture. If culture does not form the basis of independence, then the
 political movement for independence would be reduced simply to a scramble
 by selfish and power-seeking persons. Independence can be meaningful
@@ -557,9 +501,7 @@ will also give us the experience of joy. Therefore, both from the national as
 well as human standpoint, it has become essential that we think of the
 principles of Bharatiya culture. If with its help, we can reconcile the various
 ideals of Western political thought, then it will be an added advantage for
-us (मणि-कांचन संयोग [*maṇi-kāñcana saṃyoga*]). These Western principles are a product of revolution in
-human thought and social conflict. They represent one or the other aspiration
-of mankind and it is not proper to ignore them.
+us (मणि-कांचन संयोग [*maṇi-kāñcana saṃyoga*]). These Western principles are a product of revolution in human thought and social conflict. They represent one or the other aspiration of mankind and it is not proper to ignore them.
 
 
 ## Bharatiya Culture Is Holistic
@@ -589,12 +531,7 @@ country, perceived the basic unity of all life. Even the dualists have believed
 nature and spirit to be complementary to each other rather than contradictory.
 The diversity in life is merely an expression of the internal unity. There is
 complementarity underlying the diversity. The unity in seed finds expression
-in various forms - the roots, the trunk, the branches, the leaves, the flowers
-
-
-
-
-and the fruits of the tree. All these have different forms and colours and
+in various forms - the roots, the trunk, the branches, the leaves, the flowers and the fruits of the tree. All these have different forms and colours and
 even to some extent different properties. Still we recognise their relation of
 unity with each other through the seed.
 
@@ -610,9 +547,7 @@ symptom of perversion. The law of the jungle - 'Survival of the Fittest' -
 which the West discovered in recent years was known to our philosophers.
 We have recognised desire, anger, etc, among the six lower tendencies of
 human nature, but we did not use them as the foundation or the basis of
-civilised life or culture. There are thieves and robbers in society. It is essential
-to save ourselves and society from these elements. We cannot consider them
-as our ideals or standards of human behaviour. 'Survival of the Fittest' is
+civilised life or culture. There are thieves and robbers in society. It is essential to save ourselves and society from these elements. We cannot consider them as our ideals or standards of human behaviour. 'Survival of the Fittest' is
 the law of the jungle. Civilisations have developed not on the basis of this
 law, but by consideration of how the operation of this law could be reduced
 to the minimum in human life. If we wish to progress, we have to keep this
@@ -633,17 +568,7 @@ The recognition of this element of mutual sustenance among
 different forms of life and taking that as the basis of an effort to make
 human life mutually sustaining is the prime characteristic of civilisation. To
 mould nature (प्रकृति [*prakṛti*]) to achieve social goals is culture (संस्कृति [*saṃskṛti*]), but when this
-nature leads to social conflict, it is perversion (विकृति [*vikṛti*]). Culture does not
-disregard or deny nature. Rather it enhances those elements in nature which
-are helpful in sustaining life in this universe, makes it fuller and richer, and
-curbs others which obstruct or destroy life. Let us take a simple illustration.
-The relationships such as brother and sister, mother and son, father and son,
-are natural. These are same both in man as well as among animals. Just as
-
-
-
-
-two brothers are sons of one mother so also two calves have a single mother
+nature leads to social conflict, it is perversion (विकृति [*vikṛti*]). Culture does not disregard or deny nature. Rather it enhances those elements in nature which are helpful in sustaining life in this universe, makes it fuller and richer, and curbs others which obstruct or destroy life. Let us take a simple illustration. The relationships such as brother and sister, mother and son, father and son, are natural. These are same both in man as well as among animals. Just as two brothers are sons of one mother so also two calves have a single mother
 cow. Where then lies the difference? The animals forget these natural
 relationships. They cannot build up an edifice of civilisation on these
 relations. But men use this natural relation as a basis to construct a more
@@ -668,13 +593,7 @@ of a mother towards her child. Among some species of animals, the mother
 devours her progeny to satisfy her hunger. On the other hand, among
 monkeys, the mother carries her child long after its death. Both types of
 behaviour are found among living beings. Which of these two principles of
-nature can be made the basis of a civilised life? We cannot but conclude that
-
-
-- that alone which helps to sustain life can be chosen, the contrary cannot
-
-
-lead to a civilised life. Human nature has both tendencies, anger and greed
+nature can be made the basis of a civilised life? We cannot but conclude that - <i>that alone which helps to sustain life can be chosen</i>, the contrary cannot lead to a civilised life. Human nature has both tendencies, anger and greed
 on the one hand, and love and sacrifice on the other. All these are present in
 our nature. Anger, greed, etc. are natural to man and beasts alike. For this
 reason, if we make anger a basis of our life and arrange our efforts
@@ -689,12 +608,7 @@ are not framed by anyone. They are discovered. A suitable analogy is that
 of the law of gravitation. If we throw a stone, it falls on the ground. This
 law of gravitation was not framed by Newton. He discovered it. When he
 saw an apple falling on the ground from the branch, he realised there such a
-law must exist. Thus he discovered this law, he did not frame it. Similarly,
-
-
-
-
-there are certain principles of human relations. For instance, if one feels
+law must exist. Thus he discovered this law, he did not frame it. Similarly, there are certain principles of human relations. For instance, if one feels
 anger, one must keep it under control. Such an act will be beneficial to all.
 These principles of ethics are, therefore, discovered.
 
@@ -723,10 +637,7 @@ When nature is channelised according to the principles of Dharma,
 we have culture and civilisation. It is indeed this culture which will enable
 us to sustain and sublimate the life of mankind. Dharma is translated here
 as law. The English word 'religion' is not the correct translation for
-'Dharma'.
-
-
-As pointed out earlier, an integrated life is not only the foundation
+'Dharma'. As pointed out earlier, an integrated life is not only the foundation
 and the underlying principle of culture, but also its aims and ideals.
 
 
@@ -739,12 +650,7 @@ of in the physical bodily form. Physical comfort and luxury are considered
 happiness. But we know that mental worry destroys bodily happiness.
 Everyone desires physical comfort. But if a person is imprisoned, and there
 he is given the finest of foods, will he be happy? A person does not experience
-joy on getting nice food if this is also accompanied by a few abuses. There
-
-
-
-
-is a well-known incident in the Mahabharata. When Lord Krishna went to
+joy on getting nice food if this is also accompanied by a few abuses. There is a well-known incident in the Mahabharata. When Lord Krishna went to
 Hastinapura as an emissary of the Pandavas, Duryodhana invited him to
 enjoy his hospitality. Lord Krishna declined his invitation and went instead
 to Vidura's home. Overjoyed by the visit of this much-revered guest, Vidura's
@@ -757,8 +663,7 @@ mental happiness as well.
 
 Similarly, there is an intellectual happiness which must also be
 considered. Even after a person gets comforts for the body and prominence,
-affection, etc., which please the mind, but if he is involved in some intellectual
-confusion, he is reduced to a state almost similar to madness. And what is
+affection, etc., which please the mind, but if he is involved in some intellectual confusion, he is reduced to a state almost similar to madness. And what is
 madness itself? A lunatic may have all physical comforts, he may be perfectly
 healthy and properly cared for by his relatives, but he does not possess
 intellectual happiness. Intellectual peace is also essential and important. We
@@ -787,12 +692,7 @@ State if I don't get any food? I have no use of this voting right. I want bread
 first." Then came Karl Marx and said, "Yes, bread is the most important
 thing. The State belongs to the 'haves'. So let us fight for bread." He saw
 man as primarily made up of body, wanting bread. But those who followed
-the path shown by Karl Marx came to realise that they had neither bread nor
-
-
-
-
-voting rights.
+the path shown by Karl Marx came to realise that they had neither bread nor voting rights.
 
 
 At the opposite end, there is the U.S.A. There is both bread as well
@@ -836,12 +736,7 @@ then the wife has certainly slipped in her duty.
 Similarly, while we recognise the need to pay attention to the soul,
 we do not neglect the body. Upanishads declare in unambiguous words
 नायमात्मा बलहीनेन लभ्यः [*nāyamātmā balahīnena labhyaḥ*] i.e. a weakling cannot realise the Self. Again शरीरमाद्यं खलु
-धर्मसाधनम् [*śarīramādyaṃ khalu dharmasādhanam*] i.e. the body is truly the primary instrument to discharge the
-
-
-
-
-responsibilities that Dharma enjoins. The fundamental difference between
+धर्मसाधनम् [*śarīramādyaṃ khalu dharmasādhanam*] i.e. the body is truly the primary instrument to discharge the responsibilities that Dharma enjoins. The fundamental difference between
 our position and that of the West, is that whereas they have regarded the
 body and the satisfaction of its desires as the aim, we regard the body as an
 instrument for achieving our aims. We have recognised the importance of
@@ -907,10 +802,7 @@ continuously, since wealth also strengthens Dharma. Similarly, the
 government has to maintain law and order and prevent chaos which definitely
 destroys Dharma. At the time of chaos, the law of the jungle prevails where
 the strong feed upon the weak. Therefore, stability of the State is also essential
-for the prevalence of Dharma.
-
-
-In order to do this, education, character-building, spread of idealism,
+for the prevalence of Dharma. In order to do this, education, character-building, spread of idealism,
 and suitable economic structures are all necessary.
 
 
@@ -1012,12 +904,7 @@ being by the mere coming together of a number of individuals.
 
 
 In our view, society is self-born. Like an individual, society comes
-into existence in an organic way. People do not produce society. It is not a
-
-
-
-
-sort of club, or some joint-stock company, or a registered cooperative society.
+into existence in an organic way. People do not produce society. It is not a sort of club, or some joint-stock company, or a registered cooperative society.
 In reality, society is an entity with its own "SELF", its own life; it is a
 sovereign being like an individual; it is an organic entity. We have not
 accepted the view that society is some arbitrary association. It has its own
@@ -1060,12 +947,7 @@ situation becomes different. Then they indulge in all sorts of irresponsible
 actions. Thus, a single student appears disciplined, but a group of students
 becomes indisciplined. We shall have to consider why this change comes
 about. This is known as mob-mentality, as distinct from individual mentality.
-This mob-mentality is a small aspect of mind. When a group of persons
-
-
-
-
-collect for a short time, the collective mentality obtained in that group is
+This mob-mentality is a small aspect of mind. When a group of persons collect for a short time, the collective mentality obtained in that group is
 known as mob-mentality. But society and social mentality evolve over a
 much longer period. There is a thesis that when people live together in a
 group for a long time, then by historical tradition and association, and also
@@ -1101,19 +983,13 @@ mere co-habitation. There was never a time in the lives of the citizens of
 these decadent nations, when they stopped living in a group. On the other
 hand, Israeli Jews lived for centuries with other peoples, scattered far and
 wide, yet they did not lose their identity in the societies in which they lived.
-It is clear, therefore, that the source of national feeling is not in staying on a
-particular piece of land, but in something else.
+It is clear, therefore, that the source of national feeling is not in staying on a particular piece of land, but in something else.
 
 
 ## What Is A Nation?
 
 
-That source is in the goal which is put before the people. When a
-
-
-
-
-group of persons live with a goal, an ideal, a mission and look upon a
+That source is in the goal which is put before the people. When a group of persons live with a goal, an ideal, a mission and look upon a
 particular piece of land as motherland, this group constitutes a Nation. If
 either of the two - an ideal and a motherland - is not there, then there is no
 Nation. There is a 'Self' in the body, the essence of the individual; upon the
@@ -1154,12 +1030,7 @@ A human being is born with a soul. Human personality, soul and
 character are all distinct from one another. Personality results from a
 cumulative effect of all the actions, thoughts, and impressions of an
 individual. But the soul is unaffected by this history. Similarly, national
-culture is continuously modified and enlarged by historic reasons and
-
-
-
-
-circumstances. Culture does include all those things which, by the association,
+culture is continuously modified and enlarged by historic reasons and circumstances. Culture does include all those things which, by the association,
 endeavours, and the history of the society, have come to be held as good
 and commendable, but these are not added on to Chiti. Chiti is fundamental
 and is central to the nation from its very beginning. Chiti determines the
@@ -1203,12 +1074,7 @@ in the action of every great man of a Nation.
 An individual is also an instrument in bringing forth the soul of the
 Nation's Chiti. Thus, apart from his own self, an individual also represents
 his Nation. Not only that, but he also mans the various institutions that are
-created for the fulfillment of the national goal. Therefore he represents these
-
-
-
-
-too. The groups larger than Nation such as 'mankind' are also represented
+created for the fulfillment of the national goal. Therefore he represents these too. The groups larger than Nation such as 'mankind' are also represented
 by him. In short, an individual has a multitude of aspects, but they are not
 conflicting; there is cooperation, unity and harmony in them. A system based
 on the recognition of this mutually complementary nature of the different
@@ -1251,12 +1117,7 @@ dominated. Dharma was on the decline and the rule of 'Might is Right'
 prevailed. The Rishis were perturbed over the developments. They all went
 to Brahma to seek counsel. Brahma gave them a treatise on 'Law and the
 Functions of the State', which he himself had written. At the same time he
-asked Manu to become the first king. Manu declined, saying that a king will
-
-
-
-
-have to punish other persons, put them in jail and so on; he was not prepared
+asked Manu to become the first king. Manu declined, saying that a king will have to punish other persons, put them in jail and so on; he was not prepared
 to commit all these sins. Thereupon Brahma said, "Your actions in the
 capacity of a king will not constitute sin, as long as they are aimed at securing
 conditions under which the society can live peacefully and according to
@@ -1298,19 +1159,13 @@ A person who uses this quality properly becomes happy. On the
 other hand, one who does not do so reaps unhappiness. Such a person will
 not have a balanced development in life. As an illustration, a man is the son
 of his mother, the husband of his wife, the brother of his sister, and the
-father of his son. A single individual is a father and also a son, he is a
-
-
-
-
-brother and also a husband. He has to maintain all these relations with
+father of his son. A single individual is a father and also a son, he is a brother and also a husband. He has to maintain all these relations with
 intelligence, understanding and tact. Where a person fails to do so, there is
 conflict. If he sides with one party, the other feels wronged. The conflict
 between his wife and his sister, his wife and his mother, result from his
 inability to behave properly. Thereupon, some of his relations are strained.
 He is pained because his duties towards his mother and towards his wife
-clash. When he can resolve this conflict, and fulfil all his obligations properly,
-it can be said that his development will be integrated.
+clash. When he can resolve this conflict, and fulfil all his obligations properly, it can be said that his development will be integrated.
 
 
 We do not accept the view that there is any permanent inevitable
@@ -1346,12 +1201,7 @@ Rather there is a lack of any plan, any arrangement. This is, indeed, the
 present condition of our society.
 
 
-This process of deterioration can set in the various institutions of a
-
-
-
-
-society due to a variety of reasons. If the soul of the society weakens, then
+This process of deterioration can set in the various institutions of a society due to a variety of reasons. If the soul of the society weakens, then
 all the different limbs of the society will grow feeble and ineffective. Any
 particular institution may be rendered useless or even harmful. Besides, the
 need and the usefulness of any particular institution may change with time,
@@ -1394,12 +1244,7 @@ not believed central to its life, the Nation survived the transfer of political
 power.
 
 
-This had its bad effects also. The late Dr. Ambedkar had said that
-
-
-
-
-our Gram Panchayats were so strong that we neglected the throne of Delhi.
+This had its bad effects also. The late Dr. Ambedkar had said that our Gram Panchayats were so strong that we neglected the throne of Delhi.
 We did not remain alert as regards the State, as much as we ought to have
 done, thinking that Nation's life did not depend on the State. We forgot that,
 though it may be central, the State is definitely an important institution
@@ -1489,12 +1334,7 @@ have to be adapted to changing times and place.
 
 
 Some rules are temporary and others are valid for longer periods.
-There are some rules regulating our conduct at this meeting. One of the
-
-
-
-
-rules is that I speak and you listen to me with attention. If in contravention
+There are some rules regulating our conduct at this meeting. One of the rules is that I speak and you listen to me with attention. If in contravention
 of this rule, you start conversing with one another or addressing the gathering
 at the same time, then there will be disorder; our work will not progress; the
 meeting will not be sustained. It can be said that you have not observed
@@ -1536,12 +1376,7 @@ the parliament have had absolute sovereignty. Parliament cannot legislate
 arbitrarily.
 
 
-It is said about the British Parliament that it is sovereign and can do
-
-
-
-
-anything. They say that "British Parliament can do everything except make
+It is said about the British Parliament that it is sovereign and can do anything. They say that "British Parliament can do everything except make
 a woman a man and vice versa". But is it possible for the Parliament to
 legislate that every Englishman must walk on his head? It is not possible.
 Can they pass an act that everyone in England must present himself before
@@ -1583,12 +1418,7 @@ States as fundamental powers, and the Centre as merely a federation of
 States. This is contrary to the truth. It runs counter to the unity and
 indivisibility of Bharat. There is no recognition of the idea of Bharatmata,
 our sacred motherland, as enshrined in the hearts of our people. According
-to the first para of the Constitution "India that is Bharat will be a Federation
-
-
-
-
-of States", i.e. Bihar Mata, Banga Mata, Punjab Mata, Kannada Mata,
+to the first para of the Constitution "India that is Bharat will be a Federation of States", i.e. Bihar Mata, Banga Mata, Punjab Mata, Kannada Mata,
 Tamil Mata, are all put together to make Bharatmata. This is ridiculous.
 We have thought of the provinces as limbs of Bharatmata and not as
 individual mothers. Therefore, our Constitution should be Unitary instead
@@ -1674,42 +1504,27 @@ he was the chief protector of Dharma Rajya.
 
 
 Dharma Rajya does not mean a theocratic State. Let us be very
-clear on this point. Where a particular sect and its prophet or guru rule
-
-
-
-
-supreme, that is a theocratic State. All the rights are enjoyed by the follow-
-ers of this particular sect. Others either cannot live in that country or at
-best, enjoy a slave-like, secondary-citizen's status. The Holy Roman Em-
-pire had this basis. The same concept was existing behind "khilafat". Mus-
-lim kings the world over used to rule in the name of Khalifa. After the First
+clear on this point. Where a particular sect and its prophet or guru rule supreme, that is a theocratic State. All the rights are enjoyed by the followers of this particular sect. Others either cannot live in that country or at
+best, enjoy a slave-like, secondary-citizen's status. The Holy Roman Empire had this basis. The same concept was existing behind "khilafat". Muslim kings the world over used to rule in the name of Khalifa. After the First
 World War, this came to an end. Now efforts are afoot to revive it. Pakistan
 is the most recent theocratic State. They call themselves an Islamic State.
 There, apart from Muslims, all the rest are second-class citizens. Apart
-from this difference, there is no other sign of Islam in Pakistan's administra-
-tion. The Quran, Masjid, Roza, Id, Namaz, etc., are the same both in
+from this difference, there is no other sign of Islam in Pakistan's administration. The Quran, Masjid, Roza, Id, Namaz, etc., are the same both in
 Bharat, as well as in Pakistan. There is no need to tie up State and religion.
 By such a tie-up, there is no increase in an individual's capacity to worship
 God. The only result is that the State deviates from its duty. This does not
 happen in Dharma Rajya. Rather, there is freedom to worship according to
 one's own religion. In a theocratic State, one religion has all the rights and
-advantages, and there are direct or indirect restrictions on all other reli-
-gions. Dharma Rajya accepts the importance of religion for peace, happi-
-ness and progress of an individual. Therefore, the State has the responsibil-
-ity to maintain an atmosphere in which every individual can follow the reli-
-gion of his choice and live in peace. The freedom to follow one's own
+advantages, and there are direct or indirect restrictions on all other religions. Dharma Rajya accepts the importance of religion for peace, happiness and progress of an individual. Therefore, the State has the responsibility to maintain an atmosphere in which every individual can follow the religion of his choice and live in peace. The freedom to follow one's own
 religion necessarily requires tolerance for other religions. We know that
 every kind of freedom has its inherent limits. I have the freedom to swing
 my hand, but as soon as there is a conflict between my hand and someone
 else's nose, my freedom has to be restricted. I have no freedom to swing
-my hand so as to hit another person's nose. Where another person's free-
-dom is likely to be encroached upon, my freedom ends. The freedom of
+my hand so as to hit another person's nose. Where another person's freedom is likely to be encroached upon, my freedom ends. The freedom of
 both parties has to be ensured. Similarly, every religion has the freedom to
 exist. But this freedom extends only as far as it does not encroach upon the
 religion of others. If such encroachment is carried on, it will have to be
-condemned as misuse of freedom, and will have to be ended. Such limita-
-tions will be required in all aspects of life. Dharma Rajya ensures religious
+condemned as misuse of freedom, and will have to be ended. Such limitations will be required in all aspects of life. Dharma Rajya ensures religious
 freedom, and is not a theocratic State.
 
 
@@ -1720,12 +1535,7 @@ Nowadays the word 'Secular State' is being used as opposed to a
 theocratic State. The adoption of this word is a mere imitation of the Western
 thought-pattern. We had no need to import it. We called it a 'Secular State'
 to contrast it with Pakistan. There is some misunderstanding arising out of
-this. Religion was equated with Dharma, and then 'Secular State' was meant
-
-
-
-
-to be a State without Dharma. Some said, ours is a निधर्मी State (NiDharn -
+this. Religion was equated with Dharma, and then 'Secular State' was meant to be a State without Dharma. Some said, ours is a निधर्मी State (NiDharn -
 without Dharma), whereas others trying to find a better sounding word,
 called it धर्मनिरपेक्ष (Dharmanirapekha - indifferent to Dharma) State. But all
 these words are fundamentally erroneous. For a State can neither be without
@@ -1766,12 +1576,7 @@ will have to act according to Dharma. Dharma will specify limits of both.
 The Legislature, the Judiciary or the people, none of these is supreme. Some
 will say "Why ! People are sovereign. They elect." But even the people are
 not sovereign, because people too, have no right to act against Dharma. If
-an elected government allows people to go against Dharma and does not
-
-
-
-
-punish them, then that government is in reality a government of thieves.
+an elected government allows people to go against Dharma and does not punish them, then that government is in reality a government of thieves.
 Even the general will cannot go against Dharma. Imagine what will be the
 situation, if by some manoeuvring, thieves gain a majority in the government
 and send one from their ranks as the head of executive. What will be the
@@ -1813,12 +1618,7 @@ of the abolition of slavery. When the Southern states declared their intention
 to secede, Lincoln stood firm and told them: "You have no right to secede
 even in a democracy". He fought against this and did not allow them to
 secede. Nor did he tolerate slavery. He did not show readiness for a
-compromise whereby there might continue partial slavery to accommodate
-
-
-
-
-Southern states. He did not favour the policy of compromise. He categori-
+compromise whereby there might continue partial slavery to accommodate Southern states. He did not favour the policy of compromise. He categori-
 cally declared that the system of slavery was against tradition, the Dharma,
 the principles which were the basis of the American nation. Therefore the
 system of slavery had to be abolished. When the Southerners decided to
@@ -1901,12 +1701,7 @@ start taking monthly pay-offs from the bootleggers, how will the prohibition
 policy succeed? The executive is therefore, responsible for the proper
 enforcement of the law. This is the meaning of Bhishma's statement. It
 would be a mistake to interpret it as an acceptance of proven supremacy of
-a king. If this were so, how was it that the tyrant king Vena was removed by
-
-
-
-
-the Rishis and Prithu enthroned in his place? This action by the Rishis was
+a king. If this were so, how was it that the tyrant king Vena was removed by the Rishis and Prithu enthroned in his place? This action by the Rishis was
 never condemned by anyone in history. On the contrary, it was hailed by
 everyone. When the supremacy of Dharma is accepted as a principle, then
 through the authority of Dharma, the Rishis derive a right to remove a king
@@ -1949,12 +1744,7 @@ round perfection. We should have a system which does not overwhelm our
 humane quality, which does not make us slaves of its own grinding wheels.
 According to our concept, man attains God-like perfection as a result of
 development. Therefore, we have to devise such an economic system, to
-create such infrastructure and to frame such regulations, in which and by
-
-
-
-
-which, the inherent potentialities of man may find their highest fulfilment.
+create such infrastructure and to frame such regulations, in which and by which, the inherent potentialities of man may find their highest fulfilment.
 Let us consider this point.
 
 
@@ -1997,12 +1787,7 @@ There is a factory which produces "Potato-peelers", a device for peeling
 potatoes. The production of this factory outstripped the demand for the
 device. The management of the firm faced the problem of finding some
 way by which people might be induced to buy more potato-peelers. They
-called a meeting of all the sales men of the firm. Among the suggestions put
-
-
-
-
-forward, one was to make the colour of the handle similar to that of potato
+called a meeting of all the sales men of the firm. Among the suggestions put forward, one was to make the colour of the handle similar to that of potato
 peel, so that along with the peel, the peeler may also be dumped in the
 garbage, often by mistake. Thus, there may be greater demand. Also, the
 product was offered in a more attractive packing.
@@ -2045,12 +1830,7 @@ that much. It will not be wise, however, to engage in a blind rat-race of
 consumption and production as if man is created for the sole purpose of
 consumption. Engine needs coal for its proper working, but it has not been
 produced merely to consume coal. On the contrary, it is only proper, always,
-to see that with the minimum coal consumption, maximum energy is
-
-
-
-
-produced. This is the economic viewpoint. Keeping in view the aim of hu-
+to see that with the minimum coal consumption, maximum energy is produced. This is the economic viewpoint. Keeping in view the aim of hu-
 man life, we must endeavour to see how, with the minimum of fuel, man
 proceeds to his goal with the maximum speed. Such a system alone can be
 called civilisation. This system will not think of merely a single aspect of
@@ -2093,12 +1873,7 @@ diseased and the invalids, all must be cared for by society. Every society
 generally fulfils this responsibility. The social and cultural progress of
 mankind lies in its readiness to fulfil this responsibility. The economic system
 must provide for this responsibility. The economic system must provide for
-this task. Economics as a science does not account for this responsibility. A
-
-
-
-
-man works not for bread alone, but also to shoulder this responsibility. Oth-
+this task. Economics as a science does not account for this responsibility. A man works not for bread alone, but also to shoulder this responsibility. Oth-
 erwise, those who have had their meals would no longer work.
 
 
@@ -2141,12 +1916,7 @@ education.
 
 
 Similarly, it is rather surprising that one has to pay for his medical
-treatment. In fact, medical treatment also should be free as it was in this
-
-
-
-
-country in the past. Nowadays, one has to pay even to get an entrance to a
+treatment. In fact, medical treatment also should be free as it was in this country in the past. Nowadays, one has to pay even to get an entrance to a
 temple! There is a charge of twenty-five paise to enter to enter the Balaji
 temple at Tirupati. However, there is a Dharma darshan at noon for one
 hour, during which period the payment of charges is not required. At other
@@ -2190,12 +1960,7 @@ neglected.
 
 
 For capital formation, it is essential that a part of production be
-saved from immediate consumption, and be used for further production in
-
-
-
-
-future. Thus, capital can be formed only by restraint on consumption. This
+saved from immediate consumption, and be used for further production in future. Thus, capital can be formed only by restraint on consumption. This
 is the basis of capital formation to which Karl Marx refers to as 'surplus
 value' in his treatise. In the capitalist system, the industrialist creates capital
 with the help of this surplus value. In a socialist system, the State undertakes
@@ -2238,13 +2003,8 @@ objectives.
 
 
 Professor Visweswarayya has said in one of his books that, while
-considering the system of production, one must take into account the seven
-
-
-
-
-M's. These are man, material, money, management, motive power, market
-and machine. The skill and ability of the workers or those who should be
+considering the system of production, one must take into account the seven M's. These are <b>man, material, money, management, motive power, market
+</b> and <b>machine</b>. The skill and ability of the workers or those who should be
 provided work must be considered. Easy availability of the required raw
 material, and the quality and properties of the raw material available cannot
 be ignored. We must also think of how much money is available as capital.
@@ -2284,12 +2044,7 @@ out of employment. If the machine has to be imported from other countries
 at such a heavy cost, that the additional production it causes will be
 insufficient to make it economic, then such a machine is not suitable to our
 requirements. Just as to let a part of the installed capacity of a factory remain
-unutilised, is a losing proposition, so also to let the people of this country
-
-
-
-
-remain unemployed is a losing proposition. Nay, this is even worse. Whereas
+unutilised, is a losing proposition, so also to let the people of this country remain unemployed is a losing proposition. Nay, this is even worse. Whereas
 a machine eats up only the capital invested in it in the past, the unemployed
 people have to be fed, which is a continuous and unending drain on resources,
 consumed at double the speed. Therefore, instead of the usual exhortation
@@ -2331,12 +2086,7 @@ by the necessities and desires of the consumer, but by his purchasing power.
 The needs of the wealthy and well-fed are attended to, rather than those of
 the poor and the hungry. As a result, where countless varieties of goods are
 produced for the needs of the wealthy, even the basic necessities of life for
-the poor become scarce. The centralisation and monopolisation of production
-
-
-
-
-totally undermine the influence of the consumer. The markets are so organ-
+the poor become scarce. The centralisation and monopolisation of production totally undermine the influence of the consumer. The markets are so organ-
 ised that the consumer has to go for standard products. This standardisation
 is on the increase at such a pace, that individual preference of the consumer
 is ignored. Like the books in the library, even human beings are allotted
@@ -2378,12 +2128,7 @@ been eliminated, but a new class of bureaucratic exploiters has come into
 existence". Karl Marx put forward, in his analysis of history, that capitalism
 contains the seeds of its own destruction, and that communism is a natural
 and inevitable successor to capitalism. This concept may be helpful in
-fostering faith in the communists about their ultimate victory, but certainly
-
-
-
-
-such a determinist view destroys the urge for reform and dynamism in man.
+fostering faith in the communists about their ultimate victory, but certainly such a determinist view destroys the urge for reform and dynamism in man.
 He is no longer the creator of a new order; he is merely incidental to a
 predetermined historical process. His task is only to accelerate the process.
 Therefore, even as he tries to organise workers, he cares little for their welfare,
@@ -2431,8 +2176,6 @@ they care for his interest.
 The objectives of our economy should be:-
 
 
-
-
 1. An assurance of the minimum standard of living to every individual and preparedness for the defence of the Nation.
 
 2. Further increase above this minimum standard of living whereby the individual and the Nation acquire the means to contribute to world progress on the basis of its own Chiti.
@@ -2445,6 +2188,7 @@ The objectives of our economy should be:-
 
 6. The ownership, state, private or any other form, of various industries must be decided on a pragmatic and practical basis.
 
+## Swadeshi And Decentralisation
 
 These are few general directions which we must bear in mind while
 developing our economy. Swadeshi and 'Decentralisation' are the two words
@@ -2460,15 +2204,7 @@ dependent upon foreign aid in everything from thinking, management,
 capital, methods of production, technology, etc., to even the standards and
 forms of consumption. This is not the road to progress and development.
 We will forget our individuality and become virtual slaves once again. The
-positive content of Swadeshi should be used as the cornerstone for the
-
-
-## Swadeshi And Decentralisation
-
-
-
-
-reconstruction of our economy.
+positive content of Swadeshi should be used as the cornerstone for the reconstruction of our economy.
 
 
 ## Discard Status Quo Mentality
@@ -2511,12 +2247,7 @@ enabled to live a healthy, progressive and purposeful life. We shall have to
 end a number of traditions and set in reforms which are helpful in the
 development of values and of national unity in our society. We shall remove
 those traditions which obstruct this process. Whereas one need not mourn
-the limitations of the human body, one must undergo the required surgical
-
-
-
-
-operation if any part of the body has a cancerous growth. There is no need
+the limitations of the human body, one must undergo the required surgical operation if any part of the body has a cancerous growth. There is no need
 to amputate healthy limbs. If today, society is gripped with evils like
 untouchability, which leads men to treat other human beings as lower than
 themselves, and thereby threaten the national unity, we shall have to end
@@ -2559,7 +2290,11 @@ that of a complete human being. It is a state in which Nar (Man) becomes
 Narayan (God). This is the eternal and continuous divine form of our culture.
 This is our message to humanity at the crossroads. May God give us the
 strength to succeed in this task.
-BHARAT MATA KI JAI
+
+
+<b>BHARAT MATA KI JAI</b>
+
+
 25th April, 1965.
 
 
