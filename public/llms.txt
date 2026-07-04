@@ -1,0 +1,17 @@
+# Integral Humanism (Ekatma Manavvad)
+
+> The complete text of Pandit Deendayal Upadhyaya's four 1965 Bombay lectures on Integral Humanism (Ekatma Manavvad) — a Dharma-based philosophy of holistic human development integrating body, mind, intellect and soul, offered as an alternative to both Western capitalism and Marxist socialism. Author: Deendayal Upadhyaya (1916–1968). Delivered April 1965.
+
+Core concepts: Chiti (the soul / innate nature of a nation), Dharma, the four Purusharthas (Dharma, Artha, Kama, Moksha), Dharma Rajya, Virat, Antyodaya, and integral (holistic) development.
+
+## Full text
+
+- [Integral Humanism — full text (Markdown)](https://integral-humanism.chiti.network/integral-humanism.md): The complete four lectures, verbatim.
+- [Integral Humanism — full text (HTML)](https://integral-humanism.chiti.network/): Human-readable web edition with table of contents.
+
+## Lectures
+
+- [Lecture 1](https://integral-humanism.chiti.network/#lecture-1): Critique of Western ideologies; the need for a Bharatiya direction.
+- [Lecture 2](https://integral-humanism.chiti.network/#lecture-2): The holistic Bharatiya view of life; the four Purusharthas and the primacy of Dharma.
+- [Lecture 3](https://integral-humanism.chiti.network/#lecture-3): The individual and the collectivity; Chiti, the nation's soul; Dharma Rajya.
+- [Lecture 4](https://integral-humanism.chiti.network/#lecture-4): An economic structure suited to national genius; Dharma above the State.
